@@ -9,3 +9,4 @@ Dalam tugas ini mempraktekan bentuk Hierarchical Inheritance Ketika dua atau leb
 Dan ini adalah hasilnya :
 
 ![Capture](https://user-images.githubusercontent.com/115912110/199734185-68247728-abcb-471c-a98b-b1e2f9e08609.PNG)
+![Capture2](https://user-images.githubusercontent.com/115912110/199930011-3e76d30c-be32-41a3-9f05-5064c6d69793.PNG)
